@@ -1,2 +1,1 @@
-# ismaelixcoytoj
-programador de IA
+
